@@ -57,5 +57,5 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm *Abdul Moheet**. I’m an IT professional and a passionate data engineer on a mission to share knowledge and make working with data enjoyable and engaging!
+Hi there! I'm *Abdul Moheet*. I’m an IT professional and a passionate data engineer on a mission to share knowledge and make working with data enjoyable and engaging!
 
